@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sayem\\Desktop\\asp\\crud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{991FCA34-3434-408A-A714-707D0F3C2030}|crud.csproj|c:\\users\\sayem\\desktop\\asp\\crud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991FCA34-3434-408A-A714-707D0F3C2030}|crud.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991FCA34-3434-408A-A714-707D0F3C2030}|crud.csproj|c:\\users\\sayem\\desktop\\asp\\crud\\views\\home\\expenses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{991FCA34-3434-408A-A714-707D0F3C2030}|crud.csproj|solutionrelative:views\\home\\expenses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991FCA34-3434-408A-A714-707D0F3C2030}|crud.csproj|c:\\users\\sayem\\desktop\\asp\\crud\\views\\home\\createeditexpense.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{991FCA34-3434-408A-A714-707D0F3C2030}|crud.csproj|solutionrelative:views\\home\\createeditexpense.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991FCA34-3434-408A-A714-707D0F3C2030}|crud.csproj|c:\\users\\sayem\\desktop\\asp\\crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991FCA34-3434-408A-A714-707D0F3C2030}|crud.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991FCA34-3434-408A-A714-707D0F3C2030}|crud.csproj|c:\\users\\sayem\\desktop\\asp\\crud\\models\\cruddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991FCA34-3434-408A-A714-707D0F3C2030}|crud.csproj|solutionrelative:models\\cruddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991FCA34-3434-408A-A714-707D0F3C2030}|crud.csproj|c:\\users\\sayem\\desktop\\asp\\crud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{991FCA34-3434-408A-A714-707D0F3C2030}|crud.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sayem\\Desktop\\asp\\crud\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\sayem\\Desktop\\asp\\crud\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T10:01:55.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Expenses.cshtml",
+              "DocumentMoniker": "C:\\Users\\sayem\\Desktop\\asp\\crud\\Views\\Home\\Expenses.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Expenses.cshtml",
+              "ToolTip": "C:\\Users\\sayem\\Desktop\\asp\\crud\\Views\\Home\\Expenses.cshtml",
+              "RelativeToolTip": "Views\\Home\\Expenses.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T19:28:39.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\sayem\\Desktop\\asp\\crud\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\sayem\\Desktop\\asp\\crud\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAhwDMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T19:27:35.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateEditExpense.cshtml",
+              "DocumentMoniker": "C:\\Users\\sayem\\Desktop\\asp\\crud\\Views\\Home\\CreateEditExpense.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\CreateEditExpense.cshtml",
+              "ToolTip": "C:\\Users\\sayem\\Desktop\\asp\\crud\\Views\\Home\\CreateEditExpense.cshtml",
+              "RelativeToolTip": "Views\\Home\\CreateEditExpense.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T08:58:10.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CrudDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sayem\\Desktop\\asp\\crud\\Models\\CrudDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\CrudDbContext.cs",
+              "ToolTip": "C:\\Users\\sayem\\Desktop\\asp\\crud\\Models\\CrudDbContext.cs",
+              "RelativeToolTip": "Models\\CrudDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T09:47:25.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sayem\\Desktop\\asp\\crud\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sayem\\Desktop\\asp\\crud\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T07:11:55.716Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
